@@ -1,1 +1,3 @@
 Ejemplo de fichero 2
+
+editado! nueva funcionalidad
